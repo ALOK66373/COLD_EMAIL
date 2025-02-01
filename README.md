@@ -9,11 +9,6 @@ The email then highlights the common challenges of hiring, such as the time and 
 
 To encourage further discussion, the email includes a polite and open-ended call to action, inviting the recipient to schedule a quick call. The closing expresses genuine interest in hearing Nike’s thoughts and provides clear contact details for an easy follow-up. The overall structure ensures the message is concise, professional, and compelling—maximizing the likelihood of a positive response.
 
-![img.png](imgs/img.png)
-
-## Architecture Diagram
-![img.png](imgs/architecture.png)
-
 ## Set-up
 1. To get started we first need to get an API_KEY from here: https://console.groq.com/keys. Inside `app/.env` update the value of `GROQ_API_KEY` with the API_KEY you created. 
 
